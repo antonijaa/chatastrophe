@@ -2,8 +2,7 @@
   "name": "chatastrophe",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "git@github.com:scottdomes/chatastrophe.git",
-  "author": "YScott Domes <scott@musefind.com>",
+  "author": "Antonija Zovko <antonijaa.zovko@gmail.com>",
   "license": "MIT",
   "scripts": {
     "build": "node scripts/copy_assets.js && node_modules/.bin/webpack --config webpack.config.prod.js",
